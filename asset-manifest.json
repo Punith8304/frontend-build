@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f57ebcd9.css",
+    "main.js": "/static/js/main.66e60c67.js",
+    "static/media/undraw_empty-cart_574u.png": "/static/media/undraw_empty-cart_574u.55a472eafab6331fa859.png",
+    "static/media/real-estate-background-design_1212-415.avif": "/static/media/real-estate-background-design_1212-415.b612eda94aab9756c9e9.avif",
+    "index.html": "/index.html",
+    "main.f57ebcd9.css.map": "/static/css/main.f57ebcd9.css.map",
+    "main.66e60c67.js.map": "/static/js/main.66e60c67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f57ebcd9.css",
+    "static/js/main.66e60c67.js"
+  ]
+}
